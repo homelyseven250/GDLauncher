@@ -72,10 +72,10 @@ To download the latest version, you can either click [here](https://github.com/g
 - Import modpacks from other launchers
 - Keep track of the time you played each instance
 - Add instances to the download queue, they will automatically download one after the other
-- Manage your Minecraft skin directly from the launcher
 
 #### Some of the features we are still working on are:
 
+- Manage your Minecraft skin directly from the launcher
 - Drag and drop instances wherever you like them, just like in your desktop
 - Export instances to other launchers
 - Liteloader support
